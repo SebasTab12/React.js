@@ -1,12 +1,12 @@
-// db.json — base de datos simulada 
 {
-    "contactos": [
-        {
-            "id": "1d3f",
-            "nombre": "Gustavo Adolfo Bolaños",
-            "telefono": "3217532037",
-            "correo": "gabodorado@gmail.com",
-            "etiqueta": "profe"
-        }
-    ]
+  "contactos": [
+    {
+      "id": "1d3f",
+      "nombre": "Gustavo Adolfo Bolaños",
+      "telefono": "3217532037",
+      "correo": "gabodorado@gmail.com",
+      "etiqueta": "profe",
+      "empresa": "SENA"
+    }
+  ]
 }
